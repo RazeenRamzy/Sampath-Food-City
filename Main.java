@@ -12,6 +12,20 @@ public class Main {
         
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
             int age = 56;
             String Name = John;
             double mark1 =89.9;
