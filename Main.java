@@ -11,7 +11,7 @@ public class Main {
 
 
             System.out.println("My name is Abdullah");
-            System.out.println("Batch CSD85");
+        
 
         
 
@@ -28,7 +28,7 @@ public class Main {
 
 
 
-            
+
 
             int age = 56;
             String Name = John;
